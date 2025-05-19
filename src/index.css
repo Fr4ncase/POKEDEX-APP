@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+    /* POKEMON TYPES */
+    --color-primary: #DC0A2D;
+    --color-bug: #A7B723;
+    --color-dark: #75574C;
+    --color-dragon: #75574C;
+    --color-electric: #F9CF30;
+    --color-fairy: #E69EAC;
+    --color-fighting: #C12239;
+    --color-fire: #F57D31;
+    --color-flying: #A891EC;
+    --color-ghost: #70559B;
+    --color-normal: #AAA67F;
+    --color-grass: #74CB48;
+    --color-ground: #DEC16B;
+    --color-ice: #9AD6DF;
+    --color-poison: #A43E9E;
+    --color-psychic: #FB5584;
+    --color-rock: #B69E31;
+    --color-steel: #B7B9D0;
+    --color-water: #6493EB;
+
+    /* GRAYSCALE */
+    --color-gray-dark: #212121;
+    --color-gray-medium: #666666;
+    --color-gray-light: #E0E0E0;
+    --color-gray-background: #EFEFEF;
+    --color-gray-white: #FFFFFF;
+
+
+    --text-headline: 24px;
+
+    --leading-headline: 32px;
+}
