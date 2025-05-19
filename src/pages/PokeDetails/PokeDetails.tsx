@@ -6,7 +6,8 @@ function PokeDetails() {
   function Square({ value } : { value: string | null }) {
     return <button className="square">{squares}</button>;
   }
-
+  //hola como estas
+  //me llamo nicolas
   return (
     // <div>PokeDetails</div>
     <>
